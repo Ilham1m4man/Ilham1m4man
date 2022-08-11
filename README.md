@@ -8,7 +8,7 @@ My name is Ilham Imaman
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 -->
-- 🌱 I’m currently learning WEB Development and little bit Java
+- 🌱 I’m currently learning WEB Development and Java
 
 
 - 📫 How to reach me:  
