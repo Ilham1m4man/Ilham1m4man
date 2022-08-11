@@ -1,4 +1,4 @@
-## Hi there 👋
+### Hi there 👋
 
 My name is Ilham Imaman
 
@@ -17,4 +17,12 @@ My name is Ilham Imaman
   - [Twitter](https://twitter.com/ilham_imaman)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I like photography
+
+### Github Statistic
+<p align="left">
+<a href="https://github.com/Ilham1m4man">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Ilham1m4man&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Ilham1m4man&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
 
